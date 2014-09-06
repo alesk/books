@@ -7,18 +7,18 @@ Seznam strani s katerih prihajajo citati: 8, 10, 12, 13, 17, 19, 25,26, 29, 30, 
 
 ## Stran 10
 
-> Kmalu me je prešinilo, da se za platnicami vsake odnjih, skriva neskončno vesolje, ki mora biti raziskano,
+> Kmalu me je prešinilo, da se za platnicami vsake od njih, skriva neskončno vesolje, ki mora biti raziskano,
 onkraj teh zidov pa svet dovoljuje, da življenje mineva med nogometnimi popoldnevi in radijskimi novelami,
-zadovoljen s te, da s pogledom seže le do svojega popka in le malo dlje. Morda je bila ta misel, morda 
-naključje, morda njegova sorodnica usda, amak točno v tistem trenutku sem vedel, da sem že izbral knjigo, ki
+zadovoljen s tem, da s pogledom seže le do svojega popka in le malo dlje. Morda je bila ta misel, morda 
+naključje, morda njegova sorodnica usoda, ampak točno v tistem trenutku sem vedel, da sem že izbral knjigo, ki
 jo bom posvojil. Ali pa bi moral reči knjigo, ki bo posvojila mene. Sramežljivo je kukala s skrajnega konca 
 ene izmed polic, vezana v usnje vinske barve in šepetajoč svoj naslov v zlatih črkah, žarečih v svetlobi, ki
 jo je z višine prosevala kupola. Stopil sem k njej in s prstnimi blazinicami pobožal besede ter molče prebral:
-Senca Vetra, Julian Carax
+Senca Vetra, Julián Carax
 
 
 ## Stran 12
-> Ob neki priložnosti sem stalno strano očetove knjigarne slišal reči, da le malo stvari zaznamuje bralca tako
+> Ob neki priložnosti sem stalno stranko očetove knjigarne slišal reči, da le malo stvari zaznamuje bralca tako
 kot prva knjiga, ki si resnično odpre pot do njegovega srca. Tisti prvi prizori, odmevi tistih prvih besed, za
 katere mislimo, da smo jih pustili za seboj, nas spremljajo vse življenje in v našem spominu izklešejo palačo,
 v katero se bomo prej ali slej - ni pomembno, koliko knjig bomo prebrali, koliko svetov bomo odkrili, koliko
@@ -30,7 +30,7 @@ našel med prehodi Pokopališča pozabljenih knjig.
 
 ## Stran 17
 >"Pa poglejmo," je rekel Barcelo z narejeno ravnodušnostjo. "Kaj mi prinašata?"
-Pogledal sem svojega očeta. On je prikimal. Brez obotavlja sem izroćil knjigo Braceloju.
+Pogledal sem svojega očeta. On je prikimal. Brez obotavlja sem izročil knjigo Bracelóju.
 Knjigarnar jo je vzel z izkušeno roko. Njegovi klavirski prsti so naglo raziskali teksturo, 
 trdnost in ohranjenost. Ustnice so se mu raztegnile v pohlepen nasmeh, ko jo je odprl na strani
 s podatki o izdaji in jo s policijsko natančnostjo pregledoval celo minuto. Ostali so ga
@@ -45,9 +45,9 @@ ni petaka po štiri pezete, ampak ti si mi všeč in ti bom naredil uslugo."
 
 ## Stran 25
 > Tistega megličastega in deževnega popoldneva mi je Clara Barceló ukradla srce, dih in sanje.
-Pod okriljem za;arane svetlobe v Ateneu so njene roke na mojo kožo zapisale prekletstvo,
+Pod okriljem začarane svetlobe v Ateneu so njene roke na mojo kožo zapisale prekletstvo,
 ki me je zasledovalo leta in leta. Med tem, ko sem jo očarano gledal, mi je ona povedovala
-svojo zgodbo i kako je tudi ona po naključju trčila ob strani Juliána Caraxa.
+svojo zgodbo in kako je tudi ona po naključju trčila ob strani Juliána Caraxa.
 
 ## Stran 26
 >"Moj oče je od vsega začetka vedel, kaj se bo zgodilo," je razložila Clara. "Ostal je
