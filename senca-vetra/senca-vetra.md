@@ -1,3 +1,13 @@
+Kolofon
+
+Naslov izvirnika: La sombra del vietno
+(c) Carlos Ruiz Zafón, 2001
+(c) Editorial Planeta, S. A., 2003
+Ljubljana, Mladinsk aKnjiga, 2005, Prevedla Veronika Rot
+ISBN 86-11-17070-9
+
+
+
 Seznam strani s katerih prihajajo citati: 8, 10, 12, 13, 17, 19, 25,26, 29, 30, 32, 35, 43, 51, 52, 57,
 75, 77, 84, 88, 90, 104, 107, 113, 115, 120, 123, 158, 168, 190, 207, 208, 212, 213, 215, 217, 226,
 242, 265, 279, 312, 332, 343, 349, 444, 453, 464, 465, 467, 510, 512, 526, 533, 534, 535, 538, 544,
