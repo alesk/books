@@ -3,7 +3,7 @@ Kolofon
 Naslov izvirnika: La sombra del vietno
 (c) Carlos Ruiz Zafón, 2001
 (c) Editorial Planeta, S. A., 2003
-Ljubljana, Mladinsk aKnjiga, 2005, Prevedla Veronika Rot
+Ljubljana, Mladinska Knjiga, 2005, Prevedla Veronika Rot
 ISBN 86-11-17070-9
 
 
@@ -47,23 +47,67 @@ s podatki o izdaji in jo s policijsko natančnostjo pregledoval celo minuto. Ost
 molče opazovali, kot bi pričakovali dovoljenje, da lahko ponovno zadihajo.
 
 ## Stran 19
-> "Ti prinesi svojo knjigo, da jo bom lahko natačno pregledal, jaz pa ti bom povedal, kar vem
+> "Ti prinesi svojo knjigo, da jo bom lahko natančno pregledal, jaz pa ti bom povedal, kar vem
 o Julianu Caraxu. Quid pro quo"
 > "Quid pro kaj?"
-> "Latinščina pobič. Ni mrtvih jezikov, zgolj uspavani možgani. Če parafrazimarm pomeni, da
+> "Latinščina pobič. Ni mrtvih jezikov, zgolj uspavani možgani. Če parafraziram pomeni, da
 ni petaka po štiri pezete, ampak ti si mi všeč in ti bom naredil uslugo."
 
 ## Stran 25
 > Tistega megličastega in deževnega popoldneva mi je Clara Barceló ukradla srce, dih in sanje.
 Pod okriljem začarane svetlobe v Ateneu so njene roke na mojo kožo zapisale prekletstvo,
-ki me je zasledovalo leta in leta. Med tem, ko sem jo očarano gledal, mi je ona povedovala
+ki me je zasledovalo leta in leta. Med tem, ko sem jo očarano gledal, mi je ona pripovedovala
 svojo zgodbo in kako je tudi ona po naključju trčila ob strani Juliána Caraxa.
 
 ## Stran 26
 >"Moj oče je od vsega začetka vedel, kaj se bo zgodilo," je razložila Clara. "Ostal je
 ob strani svojih prijateljev, ker je mislil, da je to njegova dolžnost. Ubila ga je
 zvestoba do ljudi, ki so ga, ko je prišla njihova ura, izdali. Nikoli nikomur ne zaupaj,
-Danijel, še posebno ne ljudem, ki jih občuduješ. Ti ti bodo nož v hrbet zabodli najglobje.
+Danijel, še posebno ne ljudem, ki jih občuduješ. Ti ti bodo nož v hrbet zabodli najgloblje.
+
+## Stran 29
+Vlak za Lyon je  bil nabito poln in Monsieuru Roquefortu ni preostalo drugega, kot da si
+je svoj kupe drugega razreda razdelil z dvojico nun, si sta mu, komaj so zapustili postajo
+Austerlitz, neprestano pošiljali grajajoče poglede in potihoma negodovali. Zaradi njunih
+vrtajočih pogledov je učitelj raje segel v torbo po tisti roman in se skril za njihovimi platnicami.
+Kolikšno je njegovo bilo presenečenje, ko je stotine kilometrov kasneje odkril, da je pozabil na
+nuni, na pozibavanje vlaka, na pokrajino, ki je kot grde sanje bratov Lumiere drsela mimo oken.
+Vso noč je bral, ne meneč se za smrčanje nun in za postaje, bežeče mimo v megli. Ko je ob zori
+obrnil zadnjo stran, se je zalotil, da ima solze v očeh ter od zavisti in občudovanja
+zastrupljeno srce.
+
+## Stran 30
+Prostale izvode so vrnili in jih zmleli v papiranto kašo, da bi natisnili mašne knjige,
+listke za kazni in loterijo.
+
+## Stran 32
+"Še nikoli me ni nobena knjiga tako prevzela, osvojila in uklenila," mi je povedala Clara.
+"Do takrat mi je branje predstavljalo obveznost, neke vrste kazen, ki jo je bilo potrebno
+plačati učiteljem in inštruktorjem, ne da bi prav dobro vedela, zakaj. Nisem poznala užitka
+ob branju, ob raziskovanju vrat, ki se ti odpirajo v duši, ob prepuščanju domišljiji, lepoti
+ter skrivnosti fikcije in jezika. Ali si že kdaj poljubil dekle, Danijel?"
+
+## Stran 35
+Ženske imajo nezmotljiv čut, da ugotovijo, kdaj se neki moški nesmrtno zaljubi vanje, še
+posebno, če je ta moški pravi tepček in še mladoletne povrhu. Jaz sem imel vse točke, da me
+Clara Barceló pošlje k vragu, ampak raje sem si mislil, da mi njena slepata zagotavlja
+polje določeno varnostiter da bo moj zločin, moja popolna in patetična vdanost ženski, ki
+je bila dvakrat starejša, pametnejša in večja od mene, ostal v senci. Spraševal sem se, kaj
+bi lahko videla v meni, da bi mi ponudila prijateljstvo, razen morda bled odsev same sebe,
+odsev osmaljenosti in izgube. V mojih deških sanjah sva bila vedno ubežnika, jahajoča na
+hrbtiščih knjig, odločena, da pobegneva v domišljijskih svetovih in sposojenih sanjah.
+
+## Stran 43
+Ena izmed pasti otroštva je, da tistega, kar občutiš, ni treba razumeti. Ko je razum sposoben
+dojeti, kar se je zgodilo, so srčne rane že preveč globoke.
+
+# Stran 51
+Clara je prisegala in prisegala, da je vse res, in jaz sem se vdal, trpinčen od
+podobe tistega neznanca dvomljivega obstoja, ki se je zabval z ljubkovanjem njenega
+labodjega vratu, in kdo bi vedel, česa še, jaz pa sem po tem lahko le koprnel.
+Če bi za trenutek postal in pomislil, bi dojel, da je moja predanost Clari zgolj izvir
+trpljenja. Morda sem jo zato še bolj oboževal, zaradi te večne človeške nespametnosti,
+da rinemo za tistimi, ki nam povzroča bolečino.
 
 
 [1]: http://www.masteringemacs.org/articles/2010/10/13/diacritics-in-emacs/
