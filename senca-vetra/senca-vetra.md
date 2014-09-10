@@ -39,7 +39,7 @@ našel med prehodi Pokopališča pozabljenih knjig.
 > Skrivnost je vredna toliko, kot tisti, pred katerimi jo moramo skrivati.
 
 ## Stran 17
->"Pa poglejmo," je rekel Barcelo z narejeno ravnodušnostjo. "Kaj mi prinašata?"
+>"Pa poglejmo," je rekel Barceló z narejeno ravnodušnostjo. "Kaj mi prinašata?"
 Pogledal sem svojega očeta. On je prikimal. Brez obotavlja sem izročil knjigo Bracelóju.
 Knjigarnar jo je vzel z izkušeno roko. Njegovi klavirski prsti so naglo raziskali teksturo, 
 trdnost in ohranjenost. Ustnice so se mu raztegnile v pohlepen nasmeh, ko jo je odprl na strani
@@ -66,7 +66,7 @@ zvestoba do ljudi, ki so ga, ko je prišla njihova ura, izdali. Nikoli nikomur n
 Danijel, še posebno ne ljudem, ki jih občuduješ. Ti ti bodo nož v hrbet zabodli najgloblje.
 
 ## Stran 29
-Vlak za Lyon je  bil nabito poln in Monsieuru Roquefortu ni preostalo drugega, kot da si
+>Vlak za Lyon je  bil nabito poln in Monsieuru Roquefortu ni preostalo drugega, kot da si
 je svoj kupe drugega razreda razdelil z dvojico nun, si sta mu, komaj so zapustili postajo
 Austerlitz, neprestano pošiljali grajajoče poglede in potihoma negodovali. Zaradi njunih
 vrtajočih pogledov je učitelj raje segel v torbo po tisti roman in se skril za njihovimi platnicami.
@@ -77,37 +77,61 @@ obrnil zadnjo stran, se je zalotil, da ima solze v očeh ter od zavisti in obču
 zastrupljeno srce.
 
 ## Stran 30
-Prostale izvode so vrnili in jih zmleli v papiranto kašo, da bi natisnili mašne knjige,
+>Preostale izvode so vrnili in jih zmleli v papirnato kašo, da bi natisnili mašne knjige,
 listke za kazni in loterijo.
 
 ## Stran 32
-"Še nikoli me ni nobena knjiga tako prevzela, osvojila in uklenila," mi je povedala Clara.
+>"Še nikoli me ni nobena knjiga tako prevzela, osvojila in uklenila," mi je povedala Clara.
 "Do takrat mi je branje predstavljalo obveznost, neke vrste kazen, ki jo je bilo potrebno
 plačati učiteljem in inštruktorjem, ne da bi prav dobro vedela, zakaj. Nisem poznala užitka
 ob branju, ob raziskovanju vrat, ki se ti odpirajo v duši, ob prepuščanju domišljiji, lepoti
 ter skrivnosti fikcije in jezika. Ali si že kdaj poljubil dekle, Danijel?"
 
 ## Stran 35
-Ženske imajo nezmotljiv čut, da ugotovijo, kdaj se neki moški nesmrtno zaljubi vanje, še
+>Ženske imajo nezmotljiv čut, da ugotovijo, kdaj se neki moški nesmrtno zaljubi vanje, še
 posebno, če je ta moški pravi tepček in še mladoletne povrhu. Jaz sem imel vse točke, da me
-Clara Barceló pošlje k vragu, ampak raje sem si mislil, da mi njena slepata zagotavlja
-polje določeno varnostiter da bo moj zločin, moja popolna in patetična vdanost ženski, ki
+Clara Barceló pošlje k vragu, ampak raje sem si mislil, da mi njena slepota zagotavlja
+polje določeno varnosti ter da bo moj zločin, moja popolna in patetična vdanost ženski, ki
 je bila dvakrat starejša, pametnejša in večja od mene, ostal v senci. Spraševal sem se, kaj
 bi lahko videla v meni, da bi mi ponudila prijateljstvo, razen morda bled odsev same sebe,
-odsev osmaljenosti in izgube. V mojih deških sanjah sva bila vedno ubežnika, jahajoča na
+odsev osamljenosti in izgube. V mojih deških sanjah sva bila vedno ubežnika, jahajoča na
 hrbtiščih knjig, odločena, da pobegneva v domišljijskih svetovih in sposojenih sanjah.
 
 ## Stran 43
-Ena izmed pasti otroštva je, da tistega, kar občutiš, ni treba razumeti. Ko je razum sposoben
+>Ena izmed pasti otroštva je, da tistega, kar občutiš, ni treba razumeti. Ko je razum sposoben
 dojeti, kar se je zgodilo, so srčne rane že preveč globoke.
 
-# Stran 51
-Clara je prisegala in prisegala, da je vse res, in jaz sem se vdal, trpinčen od
-podobe tistega neznanca dvomljivega obstoja, ki se je zabval z ljubkovanjem njenega
+## Stran 51
+>Clara je prisegala in prisegala, da je vse res, in jaz sem se vdal, trpinčen od
+podobe tistega neznanca dvomljivega obstoja, ki se je zabaval z ljubkovanjem njenega
 labodjega vratu, in kdo bi vedel, česa še, jaz pa sem po tem lahko le koprnel.
 Če bi za trenutek postal in pomislil, bi dojel, da je moja predanost Clari zgolj izvir
 trpljenja. Morda sem jo zato še bolj oboževal, zaradi te večne človeške nespametnosti,
-da rinemo za tistimi, ki nam povzroča bolečino.
+da rinemo za tistimi, ki nam povzročajo bolečino.
+
+## Stran 52
+>Barceló ni bil ravno George Bernard Shaw in njegove učenke se ni prijel vzvišenih
+in očarljivi ton krilatih puhlic, vendar so njegova prizadevanja Bernardo oplemenitila in
+postala je prava gospodinjska pomočnica s podeželskim pridihom. Imela je osemindvajset let,
+ampak meni se je vedno zdelo, da ji ima vsaj deset več, pa čeprav samo v pogledu. Bila
+je zelo pobožna in vdana lurški Devici, in to do meje delirija. Vsak dan je hodila
+v baziliko Santa Mraía del Mar k maši ob osmih in spovedovala se je najmanj
+trikrat na teden. Don Gustavo, ki se je izjavljal za agnostika (Bernarda je
+sumila, da je to dihalna bolezen, tako kot astma, ampak bolj gosposka) je menil,
+da je matematično nemogoče da bi služkinja toliko grešila, da bi potrebovala
+takšen ritem spovedi.
+
+## Stran 57
+> "Daniel, mislim, da se morava pogovoriti, " mi je večkrat rekla. "Mislim, da se
+nisem obnašala prav s teboj."
+
+> Nikoli ji nisem dovolil, da bi dokončala svoje stavke. S kakršnimkoli izgovorom sem
+odšel iz sobe in zbežal. To so bili dnevi, ko sem imel občutek, da bijem s časom
+neizprosno bitko. Bal sem se, da se svet odsevov, ki sem ga zgradil okoli Clare, neizbežno
+bliža svojemu koncu. Niti najmanj si nisem predstavljal, da se moje težave šele začenjajo.
+
+
+
 
 
 [1]: http://www.masteringemacs.org/articles/2010/10/13/diacritics-in-emacs/
